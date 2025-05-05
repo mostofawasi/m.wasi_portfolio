@@ -29,8 +29,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+#greet{
+		color: #585858 !important;
+	}
+
 body {
 	line-height: 1;
+	color: #000 !important;
 }
 
 ol, ul {
@@ -3550,5 +3555,5 @@ section {
 .option.active {
 	background-color: #f2849e !important;
 	color: #585858 !important;
-	border: #585858;
-}
+	border: #585858;}
+
